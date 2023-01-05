@@ -27,7 +27,6 @@ I'm passionate Computer Programmer And Web devolper with strong hands on data st
 
 - I’m currently working on [Web Technologies])
 - I’m  Good in Data structure and algorithms
-- I’m Also Doing Competitve Programming
 - Love to learn new stuffs
 
 ### 🛠 Languages and Tools I Know
@@ -43,9 +42,10 @@ I'm passionate Computer Programmer And Web devolper with strong hands on data st
 
 ### 💻  My Programming Potral Links
 <ul>
-  <li> <a href="https://leetcode.com/Amit279/">LEETCODE</a></li>
+  <li> <a href="https://leetcode.com/RageDaaku/">LEETCODE</a></li>
+  
+  <li> <a href="https://auth.geeksforgeeks.org/user/ragedaaku10">GFG</a></li>
 <!--   <li> <a href="https://www.codechef.com/users/madboy_amit">CODECHEF</a></li>
-  <li> <a href="https://auth.geeksforgeeks.org/user/agkumar112rt/profile">GFG</a></li>
   <li> <a href="https://codeforces.com/profile/AMIT279">CODEFORCES</a></li> -->
 </ul>
 
